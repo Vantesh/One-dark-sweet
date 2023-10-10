@@ -4,6 +4,7 @@
   "description": "A theme based on sweet colors and one dark pro syntax highlighting",
   "version": "1.0.0",
   "publisher": "Vantesh",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -12,15 +13,32 @@
     "type": "git",
     "url": "https://github.com/Vantesh/One-dark-sweet.git"
   },
+  "bugs": {
+    "url": "https://github.com/Vantesh/One-dark-sweet/issues"
+  },
   "keywords": [
     "theme",
     "dark",
     "sweet",
-    "one dark pro"
+    "one dark pro",
+    "colors",
+    "syntax",
+    "Atom One Dark",
+    "Atom"
   ],
   "categories": [
     "Themes"
   ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "capabilities": {
+    "untrustedWorkspaces": {
+      "supported": true
+    },
+    "virtualWorkspaces": true
+  },
   "contributes": {
     "themes": [
       {
