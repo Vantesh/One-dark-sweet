@@ -1,0 +1,33 @@
+{
+  "name": "one-dark-sweet",
+  "displayName": "One dark sweet",
+  "description": "A theme based on sweet colors and one dark pro syntax highlighting",
+  "version": "1.0.0",
+  "publisher": "Vantesh",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vantesh/One-dark-sweet.git"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "sweet",
+    "one dark pro"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One dark sweet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One dark sweet-color-theme.json"
+      }
+    ]
+  }
+}
