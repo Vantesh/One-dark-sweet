@@ -10,9 +10,17 @@ This is a customized version of the One Dark pro theme for Visual Studio Code. I
 4. Click **Reload** to reload the editor
 5. Navigate to **File > Preferences > Color Theme** and select **One Dark Sweet**
 
-## Customization
+# Screenshots
 
-To customize the theme, navigate to **File > Preferences > Color Theme** and click the gear icon next to **One Dark Sweet**. From there, you can modify the theme to your liking.
+Here are some screenshots of the One Dark Sweet theme in action:
+
+# JavaScript
+
+![Javascript](/Screenshots/Javascript.png)
+
+# Python
+
+![python](/Screenshots/python.png)
 
 ## Credits
 
