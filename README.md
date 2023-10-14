@@ -14,7 +14,7 @@ You can install this theme directly from the [Visual Studio Code Marketplace](ht
 
 > **NOTE**: The font used in the screenshot is [Fisa Code](https://git.sainnhe.dev/sainnhe/icursive-nerd-font/src/branch/master/dist/Fisa%20Code) in order to achieve the cursive style
 
-You can enable font ligatures and other styles by coping this on your settings.json file
+You can enable font ligatures and other styles by coping this into your settings.json file
 if you are using fira code or Fisa code mentioned above:
 
 ```
